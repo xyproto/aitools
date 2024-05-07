@@ -1,4 +1,4 @@
-# aiutils
+# AI Tools
 
 UNIX system utilities that are backed by Ollama / LLMs.
 
